@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/AdminThemeModesta\/main.inc",
+    "textdomain": "site--modules--adminthememodesta--main-inc",
+    "translations": {
+        "dd5c8b9d4dda938371dfa2e1f3cb51c9": {
+            "text": "Zuletzt erstellte Seiten"
+        },
+        "40e7a34343b235be9dcc9f7ba68bea2f": {
+            "text": "Zuletzt ge\u00e4nderte Seiten"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profil"
+        },
+        "5e248eb2e87e649e91cc3168e20adf90": {
+            "text": "Seite ansehen"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Ausloggen"
+        }
+    }
+}

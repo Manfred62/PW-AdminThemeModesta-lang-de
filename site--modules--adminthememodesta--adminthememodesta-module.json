@@ -1,0 +1,75 @@
+{
+    "file": "site\/modules\/AdminThemeModesta\/AdminThemeModesta.module",
+    "textdomain": "site--modules--adminthememodesta--adminthememodesta-module",
+    "translations": {
+        "816667a2fb049f8788d7058d81c09f9d": {
+            "text": "Name der Seite"
+        },
+        "ff55462fc435526037060f5f3e26ff85": {
+            "text": "Name der Webseite im Kopfbereich des Theme anzeigen?"
+        },
+        "71467b8891a56ea09927b0df42cb36d7": {
+            "text": "Aktuelles Datum anzeigen?"
+        },
+        "aca6f5a15e55181eafff7e6df13f8e06": {
+            "text": "Aktuelles Datum im Kopfbereich des Theme anzeigen?"
+        },
+        "5fd926bee97aef3ad81ab4b1ff43fa01": {
+            "text": "Datum Regionalschema"
+        },
+        "ac143bfdc8eca6473d453c965a0230d9": {
+            "text": "Lesen Sie in der Referenz zur [PHP setlocale](http:\/\/www.php.net\/manual\/en\/function.setlocale.php) Funktion f\u00fcr weitere Informationen zum setzen des Datum Regionalschemas."
+        },
+        "a2a1bc39de1c78d1eb61edcd5d1707e4": {
+            "text": "Datum Codeseite"
+        },
+        "534fd46732986cba0efeda8701592427": {
+            "text": "Datum Format"
+        },
+        "009a59aa5cbec357aa2bb3e5d1bd0a5a": {
+            "text": "Lesen Sie in der Referenz zur [PHP strftime](http:\/\/www.php.net\/manual\/en\/function.strftime.php) Funktion f\u00fcr weitere Informationen zum setzen des Datums."
+        },
+        "0fbe7edd2c1fb6d00c01766b478b3cfe": {
+            "text": "Seiten ID anzeigen?"
+        },
+        "2fb3078ac534fffdc52ffd49ab207b7c": {
+            "text": "Die ID der Seite vor den Seitentitel stellen (nur f\u00fcr super user)."
+        },
+        "563123c3a54eef50a4d362d3ff74cb3e": {
+            "text": "Seiten vom Slide-Panel ausschliessen"
+        },
+        "a3e44bd3d4e43e9c07110ebb78d38260": {
+            "text": "Seiten ausschliessen basierend auf dem Template-Namen (getrennt mit Pipe Zeichen)."
+        },
+        "fa3ed1fcfb6890c12cf3473cad442c21": {
+            "text": "Zuletzt erstellte Seiten anzeigen?"
+        },
+        "cd7a2b00ab003291c7a2bf2a1ea85858": {
+            "text": "Zeigt zuletzt erstellte Seiten im Slide-Panel auf der linken Seite an."
+        },
+        "6ba2c0b8b183dc9360122fd9ff52d9d0": {
+            "text": "Anzahl der letzten erstellten Seiten"
+        },
+        "3b94a37c07625a92b9804b3a36491a3a": {
+            "text": "Anzahl der zuletzt erstellten Seiten (falls Nummer gleich 0, werden zuletzt erstellte Seiten nicht angezeigt)."
+        },
+        "439c0b2f93287f8ec5d5f63bb6f3e23f": {
+            "text": "Zuletzt ge\u00e4nderte Seiten anzeigen?"
+        },
+        "67c426b3d9f0805a9bfca08c082ca85f": {
+            "text": "Zeigt zuletzt ge\u00e4nderte Seiten im Slide-Panel auf der linken Seite an."
+        },
+        "3bac046dd8f6e5298df0eff84404e35e": {
+            "text": "Anzahl der letzten ge\u00e4nderten Seiten"
+        },
+        "6efd6adda2d46a81fad425b6b9374b01": {
+            "text": "Anzahl der zuletzt ge\u00e4nderten Seiten (falls Nummer gleich 0, werden zuletzt ge\u00e4nderte Seiten nicht angezeigt)."
+        },
+        "a8c5aaa93e3445a25dd2fa94042ad052": {
+            "text": "Name des Admin-Theme anzeigen?"
+        },
+        "4a3796156e68e71a47bc3c21643d1928": {
+            "text": "Name des Admin-Theme im Footer anzeigen."
+        }
+    }
+}
